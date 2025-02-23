@@ -1,9 +1,9 @@
 # **AirTouch – Your Screen, Your Gestures, No Limits.**
 
-## **📌 Project Overview**
+## **Project Overview**
 **AirTouch** is a **gesture-based screen control system** that lets you **move your cursor, click, and double-click** using only your hand movements. No touchpad, no mouse – just your **webcam and gestures**! 🚀
 
-## **🎯 Features**
+## **Features**
 ✔ **Move the cursor** with your index finger.
 ✔ **Single Click** when your middle finger extends.
 ✔ **Double Click** when both middle and ring fingers extend.
@@ -17,7 +17,7 @@
 ✅ **PyAutoGUI** – Controlling the cursor & executing screen actions  
 ✅ **NumPy** – Efficient mathematical operations  
 
-## **📌 Setup Instructions**
+## **Setup Instructions**
 ### **1️⃣ Clone the Repository**
 ```sh
  git clone https://github.com/YOUR_USERNAME/AirTouch.git
@@ -45,12 +45,12 @@ python gesture_control.py
 - **Minimize Window (Optional)** → Make a fist.
 - **Exit** → Press `'q'` in the OpenCV window.
 
-## **📌 Troubleshooting & Tips**
+## **Troubleshooting & Tips**
 - Ensure you have a **working webcam**.
 - Run the script in a **well-lit environment** for better hand detection.
 - If clicks happen unintentionally, adjust your **finger movements smoothly**.
 
-## **📌 Contribution & License**
+## **Contribution & License**
 Feel free to contribute! Fork the repo, improve it, and submit a pull request.  
 📝 Licensed under **MIT License**.
 
