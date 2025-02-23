@@ -1,7 +1,7 @@
-AirTouch – Your Screen, Your Gestures, No Limits.
+# **AirTouch – Your Screen, Your Gestures, No Limits.**
 
-📌 Project Overview
-AirTouch is a **gesture-based screen control system** that lets you **move your cursor, click, and double-click** using only your hand movements. No touchpad, no mouse – just your **webcam and gestures**! 🚀
+## **📌 Project Overview**
+**AirTouch** is a **gesture-based screen control system** that lets you **move your cursor, click, and double-click** using only your hand movements. No touchpad, no mouse – just your **webcam and gestures**! 🚀
 
 ## **🎯 Features**
 ✔ **Move the cursor** with your index finger.
@@ -11,13 +11,13 @@ AirTouch is a **gesture-based screen control system** that lets you **move your 
 ✔ **Touchless & Hardware-Free** – No extra devices needed!
 
 ## **🛠 Technologies Used**
-**Python** – Main programming language  
-**MediaPipe** – Hand tracking & gesture recognition  
-**OpenCV** – Webcam feed processing  
-**PyAutoGUI** – Controlling the cursor & executing screen actions  
-**NumPy** – Efficient mathematical operations  
+✅ **Python** – Main programming language  
+✅ **MediaPipe** – Hand tracking & gesture recognition  
+✅ **OpenCV** – Webcam feed processing  
+✅ **PyAutoGUI** – Controlling the cursor & executing screen actions  
+✅ **NumPy** – Efficient mathematical operations  
 
-**Setup Instructions**
+## **📌 Setup Instructions**
 ### **1️⃣ Clone the Repository**
 ```sh
  git clone https://github.com/YOUR_USERNAME/AirTouch.git
@@ -54,5 +54,5 @@ python gesture_control.py
 Feel free to contribute! Fork the repo, improve it, and submit a pull request.  
 📝 Licensed under **MIT License**.
 
-## **🚀 Ready to revolutionize touchless computing? Let’s go!** 🚀
+## **Ready to revolutionize touchless computing?** 
 
